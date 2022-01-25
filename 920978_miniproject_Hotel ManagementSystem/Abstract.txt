@@ -1,0 +1,7 @@
+Simple Hotel Management System project is written in Python. 
+The project file contains a python script (Hotelms.py). 
+This is a simple console based system which is very easy to understand and use. 
+Talking about the system, it contains all the basic functions which include entering customer’s data, 
+calculating room rent, restaurant bill, laundry bill, game bill, and total cost. In this mini project, 
+there is no such login system. This means he/she can use all those available features easily without any restriction.
+It is too easy to use, he/she can check the total cost of staying in the hotel easily with each and every detail.

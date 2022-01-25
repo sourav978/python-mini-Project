@@ -1,0 +1,3 @@
+This simple console based Hotel Management system provides the simplest management of hotel service and transaction. 
+In short, this projects mainly focus on adding and calculating results. There’s no external database connection file
+ used in this mini project to save user’s data permanently.
